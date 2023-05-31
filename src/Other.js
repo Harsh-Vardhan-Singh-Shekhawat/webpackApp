@@ -3,4 +3,4 @@ function Other() {
     return "Other Function!"
 }
 
-export default Other();
+export default Other;

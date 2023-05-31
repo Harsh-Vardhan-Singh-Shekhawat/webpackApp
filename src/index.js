@@ -1,1 +1,3 @@
-import Other from "./More "
+import Other from "./Other"
+
+console.warn(Other());
